@@ -1,5 +1,5 @@
 # eventer
-Javascript events witouth any DOM overheat
+Javascript events witouth any DOM overhead
 
 ## So what we can do?
 
